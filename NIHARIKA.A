@@ -1,5 +1,6 @@
 #include<iostream.h>
-#include <window .h>
+#include <windows.h>
+using namespace std;
 int main()
 {
 int h,m,s,a,err;
